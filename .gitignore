@@ -3,5 +3,5 @@ archive
 aws-to-paddle/images/*
 textract
 *.png
-tmp
+*tmp*
 tmp-dataset
