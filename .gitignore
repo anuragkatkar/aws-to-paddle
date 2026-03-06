@@ -1,0 +1,7 @@
+archive
+*.zip
+aws-to-paddle/images/*
+textract
+*.png
+tmp
+tmp-dataset
